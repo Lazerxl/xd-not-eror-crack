@@ -6,7 +6,7 @@
 
 
 
-
+--admin1
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Lazerxl/erorkungxlazerbabyxdnotcrakplsxdlolgamelazerxhubkeuskpsjsksksksnxo3o3/main/README.md"))()
 
